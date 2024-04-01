@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Mohanraj486
+- 👋 Hi, I’m Mohanraj
 - 👀 I’m interested in ...Java 
-- 🌱 I’m currently learning ... Advance jJava
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ... Advance Java
+- 📫 How to reach me ...mohanrajraj486@gmail.com
+
 
 <!---
 Mohanraj486/Mohanraj486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
